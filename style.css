@@ -1,0 +1,14 @@
+:root{
+    --cor-de-fundo: #ebecee;
+    --cor-de-menu: #ffe100;
+    --cor-de-letra: #ffffff;
+    --cor-de-footer: #ff0000;
+    --cor-de-foo: #000000;
+}
+body{
+    background-color: red;
+}
+
+h1{
+    color: var(--cor-de-letra)
+}
